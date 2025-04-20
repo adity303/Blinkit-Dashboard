@@ -45,3 +45,6 @@ Notes.doc – Project notes and business requirements
 📬 Contact
 For questions, improvements, or feedback, feel free to reach out.
 
+
+Images
+![image alt](https://github.com/adity303/Blinkit-Dashboard/blob/main/blinkit%20dashboard.png?raw=true)
